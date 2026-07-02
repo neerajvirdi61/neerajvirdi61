@@ -6,7 +6,7 @@
 </td></tr>
 <tr><td align="center">
 
-🐍 Python Developer&nbsp;&nbsp;|&nbsp;&nbsp;🌶️ Full Stack Developer&nbsp;&nbsp;|&nbsp;&nbsp;🗄️
+🐍 Python Developer&nbsp;&nbsp;|&nbsp;&nbsp;🌶️ Full Stack Developer&nbsp;&nbsp;
 
 </td></tr>
 </table>
